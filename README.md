@@ -6,7 +6,7 @@
 <p>✍️&nbsp;&nbsp;大家好，我是小苏同学! </p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
-💪 TAG: 
+💪 : 
 
 &emsp;&emsp;
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html&logoColor=white)
