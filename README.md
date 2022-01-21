@@ -32,5 +32,5 @@
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SuJunming&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
-      <img align="center" width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuJunming&theme=dark" />
+      <img align="center" width="90%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=SuJunming&theme=dark" />
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
