@@ -1,6 +1,4 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/>
-  <!-- 访客数统计徽标 -->
-    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
   </div>
 <br>
 <div align="center" >
@@ -34,4 +32,5 @@
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SuJunming&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
+      <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
