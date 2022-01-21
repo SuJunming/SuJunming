@@ -28,7 +28,6 @@
   </div>
   <div align="center" >
   <!-- 访客数统计徽标 -->
-  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=SuJunming" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
   </div>
 <!-- GitHub奖杯🏆 -->
