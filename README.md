@@ -1,7 +1,9 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 <div align="center" >
-
+  <!-- 访客数统计徽标 -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  </div>
 &emsp;&emsp;
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -27,9 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
   </div>
   <div align="center" >
-  <!-- 访客数统计徽标 -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  </div>
+
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SuJunming&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
