@@ -27,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 <br/>
-AI/TARO/容器/ReactNative/流媒体
+AI/MCP/TARO/容器/ReactNative/流媒体
   </div>
   <div align="center" >
 
